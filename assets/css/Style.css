@@ -66,3 +66,25 @@
 {
     background-color: rgba(0, 255, 13, 0.7);
 }
+@media(max-width:360px)
+{
+    .Calc
+    {
+        position: fixed;
+        padding-top: 10%;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-bottom: 80%;
+        font-family: 'Roboto Slab', serif;
+        background-image: linear-gradient(green,blue);
+    }
+}
+@media(max-width:411px)
+{
+    .Calc
+    {
+        padding-left: 15%;
+        padding-right: 20%;
+        padding-top: 20%;
+    }
+}
