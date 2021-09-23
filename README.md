@@ -12,4 +12,3 @@
   * [How to Create a Repository](https://youtu.be/o6T5F7-SOAo)
   * [Cloning a Repository](https://youtu.be/oYselL5G280)
   * [Contributing to a Project](https://youtu.be/4vq07q7g2xE)
-
