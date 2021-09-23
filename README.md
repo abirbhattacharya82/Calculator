@@ -12,3 +12,6 @@
   * [How to Create a Repository](https://youtu.be/o6T5F7-SOAo)
   * [Cloning a Repository](https://youtu.be/oYselL5G280)
   * [Contributing to a Project](https://youtu.be/4vq07q7g2xE)
+ -----------------------------------------------
+ # Tech Stacks:
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="width:10%">  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="width:7%">     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="width:10%">
